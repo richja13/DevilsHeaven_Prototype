@@ -1,0 +1,1648 @@
+fileFormatVersion: 2
+guid: 7967d4adfaf2324499c0d2defbab12c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8150941251538651193
+    second: HealParticles_0
+  - first:
+      213: -5785426104264734058
+    second: HealParticles_1
+  - first:
+      213: -5507488568075657382
+    second: HealParticles_2
+  - first:
+      213: -6853318113866573637
+    second: HealParticles_3
+  - first:
+      213: -931800095024979387
+    second: HealParticles_4
+  - first:
+      213: -1195253970265833674
+    second: HealParticles_5
+  - first:
+      213: -2619328013165353680
+    second: HealParticles_6
+  - first:
+      213: -5481313166777054616
+    second: HealParticles_7
+  - first:
+      213: -37336817036207091
+    second: HealParticles_8
+  - first:
+      213: 5140097790444389337
+    second: HealParticles_9
+  - first:
+      213: -1733440342708161800
+    second: HealParticles_10
+  - first:
+      213: 239810433067991524
+    second: HealParticles_11
+  - first:
+      213: -54997466606603071
+    second: HealParticles_12
+  - first:
+      213: 30251856708132173
+    second: HealParticles_13
+  - first:
+      213: 7774762380369527626
+    second: HealParticles_14
+  - first:
+      213: 8722712415626681982
+    second: HealParticles_15
+  - first:
+      213: -7254686777861404097
+    second: HealParticles_16
+  - first:
+      213: 4506251936602280498
+    second: HealParticles_17
+  - first:
+      213: 3600346589463992871
+    second: HealParticles_18
+  - first:
+      213: -2910703218103016840
+    second: HealParticles_19
+  - first:
+      213: -1228235704625327216
+    second: HealParticles_20
+  - first:
+      213: 3897111416598225768
+    second: HealParticles_21
+  - first:
+      213: -4643162974203454757
+    second: HealParticles_22
+  - first:
+      213: -469811101385276131
+    second: HealParticles_23
+  - first:
+      213: -2071846798751495768
+    second: HealParticles_24
+  - first:
+      213: 2154192184383244090
+    second: HealParticles_25
+  - first:
+      213: -4978971575298505950
+    second: HealParticles_26
+  - first:
+      213: -6208200949893214282
+    second: HealParticles_27
+  - first:
+      213: -7326438698295531650
+    second: HealParticles_28
+  - first:
+      213: -6272491978391830248
+    second: HealParticles_29
+  - first:
+      213: -4586797828760648972
+    second: HealParticles_30
+  - first:
+      213: -6378654553982959784
+    second: HealParticles_31
+  - first:
+      213: -6764036351154887493
+    second: HealParticles_32
+  - first:
+      213: 3952333305688437684
+    second: HealParticles_33
+  - first:
+      213: -880923221616374617
+    second: HealParticles_34
+  - first:
+      213: 8953911364355098793
+    second: HealParticles_35
+  - first:
+      213: -6018256653739560087
+    second: HealParticles_36
+  - first:
+      213: 2906253581320281870
+    second: HealParticles_37
+  - first:
+      213: 34598069705227433
+    second: HealParticles_38
+  - first:
+      213: -6844321009746903244
+    second: HealParticles_39
+  - first:
+      213: 3295381546355137255
+    second: HealParticles_40
+  - first:
+      213: 3899199292367322403
+    second: HealParticles_41
+  - first:
+      213: -4029988166302022899
+    second: HealParticles_42
+  - first:
+      213: 1298574314508247555
+    second: HealParticles_43
+  - first:
+      213: -1928280448483917800
+    second: HealParticles_44
+  - first:
+      213: 5499250236554630762
+    second: HealParticles_45
+  - first:
+      213: 4207849089790290245
+    second: HealParticles_46
+  - first:
+      213: -3170337747079681135
+    second: HealParticles_47
+  - first:
+      213: 3249337505097507691
+    second: HealParticles_48
+  - first:
+      213: 4373397078785158584
+    second: HealParticles_49
+  - first:
+      213: -5616772400500273811
+    second: HealParticles_50
+  - first:
+      213: -8297276000356532633
+    second: HealParticles_51
+  - first:
+      213: 7466829920175594769
+    second: HealParticles_52
+  - first:
+      213: -5071345034721758012
+    second: HealParticles_53
+  - first:
+      213: 9127199539387013608
+    second: HealParticles_54
+  - first:
+      213: 6189809863841150072
+    second: HealParticles_55
+  - first:
+      213: -1770918277645229814
+    second: HealParticles_56
+  - first:
+      213: -5001974613823517879
+    second: HealParticles_57
+  - first:
+      213: 2127441824881178666
+    second: HealParticles_58
+  - first:
+      213: 1325046768793539729
+    second: HealParticles_59
+  - first:
+      213: 6357549429118248918
+    second: HealParticles_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HealParticles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7f5f40e1a02ee80800000000000000
+      internalID: -8150941251538651193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 490
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a47055c9906bfa0800000000000000
+      internalID: -5785426104264734058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 490
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f5357c3587193b0800000000000000
+      internalID: -5507488568075657382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 490
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb89b326c7f14e0a0800000000000000
+      internalID: -6853318113866573637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 490
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5426c5e10c49113f0800000000000000
+      internalID: -931800095024979387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 490
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ffde5c8da996fe0800000000000000
+      internalID: -1195253970265833674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 490
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035ac01cc0746abd0800000000000000
+      internalID: -2619328013165353680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 490
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a059f47b67ee3b0800000000000000
+      internalID: -5481313166777054616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c538bdc5a5b7ff0800000000000000
+      internalID: -37336817036207091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 420
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3453ef4bb455740800000000000000
+      internalID: 5140097790444389337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 420
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f27c85413591f7e0800000000000000
+      internalID: -1733440342708161800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 420
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1437c715af35300800000000000000
+      internalID: 239810433067991524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 420
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4fd53781c9c3ff0800000000000000
+      internalID: -54997466606603071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 420
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d52e447e97b6000800000000000000
+      internalID: 30251856708132173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_14
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 420
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a430ff6413185eb60800000000000000
+      internalID: 7774762380369527626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 420
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e51532abc4d0970800000000000000
+      internalID: 8722712415626681982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a09d000dc225b90800000000000000
+      internalID: -7254686777861404097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 350
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232589dd24c698e30800000000000000
+      internalID: 4506251936602280498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 350
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a5a4dc52007f130800000000000000
+      internalID: 3600346589463992871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_19
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 350
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872226e38da1b97d0800000000000000
+      internalID: -2910703218103016840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 350
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0931b55522e64fee0800000000000000
+      internalID: -1228235704625327216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 350
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863e4748f22551630800000000000000
+      internalID: 3897111416598225768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_22
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 350
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda5b5020eb209fb0800000000000000
+      internalID: -4643162974203454757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_23
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 350
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15456eda45ea79f0800000000000000
+      internalID: -469811101385276131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9036b40525f33e0800000000000000
+      internalID: -2071846798751495768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 280
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a370618d06a35ed10800000000000000
+      internalID: 2154192184383244090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 280
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c0936bb327eab0800000000000000
+      internalID: -4978971575298505950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 280
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4f57e02a08d9a0800000000000000
+      internalID: -6208200949893214282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 280
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e776b6f22d2435a90800000000000000
+      internalID: -7326438698295531650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 280
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811c77b57c1a3f8a0800000000000000
+      internalID: -6272491978391830248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 280
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f240383dab6850c0800000000000000
+      internalID: -4586797828760648972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_31
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 280
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ffaec8a777a77a0800000000000000
+      internalID: -6378654553982959784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb46599a6c05122a0800000000000000
+      internalID: -6764036351154887493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 210
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3318f733289d630800000000000000
+      internalID: 3952333305688437684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_34
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 210
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acc92d4ff456c3f0800000000000000
+      internalID: -880923221616374617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 210
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a808be22fea24c70800000000000000
+      internalID: 8953911364355098793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 210
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f8b2a57bda7ca0800000000000000
+      internalID: -6018256653739560087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_37
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 210
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f5dc5fb36155820800000000000000
+      internalID: 2906253581320281870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_38
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 210
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acb1b6d2caea7000800000000000000
+      internalID: 34598069705227433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_39
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 210
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ffa4ded461401a0800000000000000
+      internalID: -6844321009746903244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea10e58e0c8bbd20800000000000000
+      internalID: 3295381546355137255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 140
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d320af81dbc1630800000000000000
+      internalID: 3899199292367322403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 140
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d034a825d1b9218c0800000000000000
+      internalID: -4029988166302022899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_43
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 140
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302e5ba7576750210800000000000000
+      internalID: 1298574314508247555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_44
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 140
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81009c8062f5d35e0800000000000000
+      internalID: -1928280448483917800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_45
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 140
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6652d034f2415c40800000000000000
+      internalID: 5499250236554630762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_46
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 140
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549a669f378456a30800000000000000
+      internalID: 4207849089790290245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_47
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 140
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bad4fbd92b004d0800000000000000
+      internalID: -3170337747079681135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63e0b2ce37f71d20800000000000000
+      internalID: 3249337505097507691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 70
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd68bec87d61bc30800000000000000
+      internalID: 4373397078785158584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_50
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 70
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d86fbb2473d02b0800000000000000
+      internalID: -5616772400500273811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_51
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 70
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eff5340772adc80800000000000000
+      internalID: -8297276000356532633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_52
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 70
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d135e50428f9760800000000000000
+      internalID: 7466829920175594769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_53
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 70
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4f7ff5f86fe99b0800000000000000
+      internalID: -5071345034721758012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 70
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e995438f935aae70800000000000000
+      internalID: 9127199539387013608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_55
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 70
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874f571b64f96e550800000000000000
+      internalID: 6189809863841150072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01a5be853f6c67e0800000000000000
+      internalID: -1770918277645229814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_57
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b078f179a659ab0800000000000000
+      internalID: -5001974613823517879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_58
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f95c6111368d10800000000000000
+      internalID: 2127441824881178666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_59
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194d7bc0403836210800000000000000
+      internalID: 1325046768793539729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealParticles_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a494a58d8a3850800000000000000
+      internalID: 6357549429118248918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HealParticles_35: 8953911364355098793
+      HealParticles_32: -6764036351154887493
+      HealParticles_50: -5616772400500273811
+      HealParticles_49: 4373397078785158584
+      HealParticles_19: -2910703218103016840
+      HealParticles_13: 30251856708132173
+      HealParticles_5: -1195253970265833674
+      HealParticles_1: -5785426104264734058
+      HealParticles_2: -5507488568075657382
+      HealParticles_44: -1928280448483917800
+      HealParticles_23: -469811101385276131
+      HealParticles_12: -54997466606603071
+      HealParticles_8: -37336817036207091
+      HealParticles_57: -5001974613823517879
+      HealParticles_20: -1228235704625327216
+      HealParticles_46: 4207849089790290245
+      HealParticles_17: 4506251936602280498
+      HealParticles_40: 3295381546355137255
+      HealParticles_31: -6378654553982959784
+      HealParticles_26: -4978971575298505950
+      HealParticles_53: -5071345034721758012
+      HealParticles_27: -6208200949893214282
+      HealParticles_25: 2154192184383244090
+      HealParticles_4: -931800095024979387
+      HealParticles_43: 1298574314508247555
+      HealParticles_51: -8297276000356532633
+      HealParticles_58: 2127441824881178666
+      HealParticles_7: -5481313166777054616
+      HealParticles_30: -4586797828760648972
+      HealParticles_56: -1770918277645229814
+      HealParticles_36: -6018256653739560087
+      HealParticles_29: -6272491978391830248
+      HealParticles_22: -4643162974203454757
+      HealParticles_14: 7774762380369527626
+      HealParticles_59: 1325046768793539729
+      HealParticles_60: 6357549429118248918
+      HealParticles_34: -880923221616374617
+      HealParticles_0: -8150941251538651193
+      HealParticles_47: -3170337747079681135
+      HealParticles_15: 8722712415626681982
+      HealParticles_24: -2071846798751495768
+      HealParticles_52: 7466829920175594769
+      HealParticles_11: 239810433067991524
+      HealParticles_33: 3952333305688437684
+      HealParticles_38: 34598069705227433
+      HealParticles_41: 3899199292367322403
+      HealParticles_55: 6189809863841150072
+      HealParticles_54: 9127199539387013608
+      HealParticles_39: -6844321009746903244
+      HealParticles_3: -6853318113866573637
+      HealParticles_18: 3600346589463992871
+      HealParticles_9: 5140097790444389337
+      HealParticles_10: -1733440342708161800
+      HealParticles_28: -7326438698295531650
+      HealParticles_16: -7254686777861404097
+      HealParticles_37: 2906253581320281870
+      HealParticles_21: 3897111416598225768
+      HealParticles_42: -4029988166302022899
+      HealParticles_6: -2619328013165353680
+      HealParticles_45: 5499250236554630762
+      HealParticles_48: 3249337505097507691
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
